@@ -1,9 +1,10 @@
 # Act6_clasesV2_5j
 
 ##codigo
-- ![image](https://github.com/user-attachments/assets/b40a79e8-4355-43cc-8c9d-76a3390f8eef)
-- ![image](https://github.com/user-attachments/assets/573ec3bf-fdce-42a6-b6a5-1805fdb37f90)
+- ![image](https://github.com/user-attachments/assets/90464ce6-0d28-4846-be14-43a777001b8b)
+- ![image](https://github.com/user-attachments/assets/5234e2b9-9808-4485-b9b6-a7e639a701a9)
 - resultado
-- ![image](https://github.com/user-attachments/assets/907a1571-ed29-41e9-b404-160c4eda3bb7)
+- ![image](https://github.com/user-attachments/assets/0d4e93d7-3ab6-4c0a-bed7-807d705b9a68)
+
 
 
